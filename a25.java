@@ -26,7 +26,7 @@ public class a25 extends Object {
           System.out.println(sa.insert(0,"k"));
            sa.setLength(20);
            System.out.println(sa.length());
-           System.out.println(sa.append("sbjd"));
+           System.out.println(sa.append("sbjjjjjd"));
            System.out.println(sa.length());
     }
     
